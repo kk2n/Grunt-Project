@@ -1,9 +1,12 @@
-gruntxx
+Grunt-Project
 =======
+一个自动化的项目模板，功能包括：
+    JS合并，
+    scss编译，
+    js压缩，
+    js语法检查，
+    Grunt自动监听任务。
 
-Grunt 新手一日学会 配套示例项目。
 
-详情请看文章：<http://yujiangshui.com/grunt-basic-tutorial/>
+本项目是一个template，在新建grunt项目是clone一下，然后根据您的文件结构，修改gruntfile.js文件
 
-切换到 grunt 分支有惊喜。
-# Grunt-Project
