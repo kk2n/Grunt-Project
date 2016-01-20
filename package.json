@@ -1,0 +1,14 @@
+{
+  "name": "Grunt Project",
+  "version": "1.0.0",
+  "description": "likuan",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "likuan",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
